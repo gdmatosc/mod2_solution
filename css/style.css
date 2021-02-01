@@ -43,15 +43,15 @@ p {
 	overflow: hidden;
 }
 
-#ps1{
+#ps1 {
 background-color:#00008B;
-}
-#ps2{
+ }
+#ps2 {
 background-color:#8F0000;
-}
-#ps3{
+ }
+#ps3 {
 background-color:blue;
-}
+ }
 
 .row {
 	width: 100%;
