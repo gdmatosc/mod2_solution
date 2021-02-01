@@ -26,6 +26,33 @@ p {
 	color: white;
 }
 
+.ps {
+	border: 1px solid black;
+	background-color: gray;
+	padding-top: 2px;
+	position: absolute;
+	text-align: center;
+	width: 90px;
+	height: 30px;
+	margin-right:auto;
+	margin-left:auto;
+	font-family: Helvetica;
+	color: white;
+	top: 0;
+	right: 0;
+	overflow: hidden;
+}
+
+#ps1{
+background-color:#00008B;
+}
+#ps2{
+background-color:#8F0000;
+}
+#ps3{
+background-color:green;
+}
+
 .row {
 	width: 100%;
 }
